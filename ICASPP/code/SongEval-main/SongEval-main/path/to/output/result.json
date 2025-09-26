@@ -1,9 +1,9 @@
 {
-    "audio": {
-        "Coherence": 4.2306,
-        "Musicality": 3.8447,
-        "Memorability": 4.0418,
-        "Clarity": 3.9732,
-        "Naturalness": 3.9307
+    "snow": {
+        "Coherence": 4.4382,
+        "Musicality": 4.172,
+        "Memorability": 4.2753,
+        "Clarity": 4.1982,
+        "Naturalness": 4.0405
     }
 }
